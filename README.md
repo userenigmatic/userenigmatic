@@ -1,6 +1,6 @@
-# Hi, I'm Immanuel 👋
-Welcome to my GitHub profile! ************************(:-  
-I'm currently focusing on Python, Machine Learning, and Data Analysis.  
+# Immanuel here 👋
+  
+Currently focusing on Python, Machine Learning, and Data Analysis.  
  
 
 
