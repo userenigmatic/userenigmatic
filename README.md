@@ -4,6 +4,6 @@ ML Enthusiast, AI x Energy; AI Ethics & Governance, KYC/AML Analyst, Financial A
 ## Skills
 -  Python (Pandas, NumPy, Matplotlib, Scikit-Learn)
 -  Data Analysis & Visualization -PowerBI, Excel(Pivots, VBA scripts)
--  Machine Learning & AI
--  SQL & Databases
+-  Machine Learning(Supervised and Unsupervised) & AI
+-  SQL (Joins, Functions, Database Design and Security)
 -  Git & GitHub  
