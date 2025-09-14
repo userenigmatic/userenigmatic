@@ -1,12 +1,9 @@
-# Immanuel here 👋
-  
-Currently focusing on Python, Machine Learning, and Data Analysis.  
- 
+ML Enthusiast, AI x Energy; AI Ethics & Governance, KYC/AML Analyst, Financial Analyst
 
 
-## 🔧 Technologies & Skills
-- 🐍 Python (Pandas, NumPy, Matplotlib, Scikit-Learn)
-- 📊 Data Analysis & Visualization
-- 🤖 Machine Learning & AI
-- 🛠 SQL & Databases
-- 🔗 Git & GitHub  
+## Skills
+-  Python (Pandas, NumPy, Matplotlib, Scikit-Learn)
+-  Data Analysis & Visualization -PowerBI, Excel(Pivots, VBA scripts)
+-  Machine Learning & AI
+-  SQL & Databases
+-  Git & GitHub  
